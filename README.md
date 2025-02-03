@@ -10,9 +10,9 @@
 ### 🌸 About Me
 - 🎓 **Full-Stack Developer** and **Computer Engineering Student**.  
 - 💻 I enjoy building sleek, functional apps using **JavaScript**, **React**, and **Node.js**.  
-- 🌱 **Currently Learning**: TypeScript, Docker, and GraphQL.  
+- 🌱 **Currently Learning**: a little bit of everything.
 - 🌅 **Passionate About**: Painting, listening to music, and enjoying sunsets.  
-- ✨ Fun Fact: I work better with my favorite playlist on repeat! 🎶
+- ✨ Fun Fact: I work better with Humbe on repeat! 🎶
 
 ---
 
