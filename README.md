@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #ff85c0;">Crafting beautiful and functional web solutions, one line of code at a time. ✨</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Rl3O5m0oEVOinZXx9A/giphy.gif" width="200" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF6NmoyamFsNTF3enI1azZoNXhqMXkzOW4wZTE5dTY4eDgzd2FrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="400" />
 </p>
 
 ---
