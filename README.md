@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #ff69b4;">🌸 Hi there 👋, I'm Valeria 🌸</h1>
-<h3 align="center" style="color: #ff85c0;">Crafting beautiful and functional web solutions, one line of code at a time. ✨</h3>
+<h3 align="center" style="color: #ff85c0;">Engineering elegant and efficient web solutions, one line of code at a time. 💻</h3>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF6NmoyamFsNTF3enI1azZoNXhqMXkzOW4wZTE5dTY4eDgzd2FrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="400" />
