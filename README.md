@@ -1,28 +1,28 @@
-<h1 align="center" style="color: #ff69b4;">✨ Hi there 👋, I'm Valeria ✨</h1>
-<h3 align="center" style="color: #ff85c0;">Crafting beautiful and functional web solutions, one line of code at a time. 🌸</h3>
+<h1 align="center" style="color: #ff69b4;">🌸 Hi there 👋, I'm Valeria 🌸</h1>
+<h3 align="center" style="color: #ff85c0;">Crafting beautiful and functional web solutions, one line of code at a time. ✨</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LpaF4cW6gIBrjQUbn9/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/Rl3O5m0oEVOinZXx9A/giphy.gif" width="200" />
 </p>
 
 ---
 
-### 🌸 About Me
+## 🌷 About Me
 - 🎓 **Full-Stack Developer** and **Computer Engineering Student**.  
-- 💻 I enjoy building sleek, functional apps using **JavaScript**, **React**, and **Node.js**.  
-- 🌱 **Currently Learning**: a little bit of everything.
-- 🌅 **Passionate About**: Painting, listening to music, and enjoying sunsets.  
-- ✨ Fun Fact: I work better with Humbe on repeat! 🎶
+- 💻 Passionate about creating sleek, user-friendly web apps with **JavaScript**, **React**, and **Node.js**.  
+- 🌱 **Currently Learning**: A little bit of everything 💡.  
+- 🎨 **Creative Soul**: I love painting, listening to music, and admiring beautiful sunsets.  
+- ✨ **Fun Fact**: My best work happens with **Humbe** playing in the background! 🎶  
 
 ---
 
-### 📫 How to reach me
-- **Email**: [valerialejandrasa@gmail.com](mailto:valerialejandrasa@gmail.com)  
-- **Instagram**: [@valeriaasalcedoo](https://instagram.com/valeriaasalcedoo)  
+## 📫 How to reach me
+💌 **Email**: [valerialejandrasa@gmail.com](mailto:valerialejandrasa@gmail.com)  
+📷 **Instagram**: [@valeriaasalcedoo](https://instagram.com/valeriaasalcedoo)  
 
 ---
 
-### 💖 Let's Connect!
+## 💖 Let's Connect!
 <p align="center">
   <a href="https://instagram.com/valeriaasalcedoo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
@@ -34,7 +34,7 @@
 
 ---
 
-### 🌟 Technologies & Tools I Use
+## 🎀 Technologies & Tools I Use
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -53,14 +53,14 @@
 
 ---
 
-### 🎨 Hobbies & Interests
-- 🖌️ **Painting**: I love expressing creativity with colors and brushes.  
-- 🎵 **Music**: My perfect coding companion.  
-- 🌅 **Sunsets**: Finding beauty in the simple moments of life.  
+## 🌸 Hobbies & Interests
+- 🖌️ **Painting**: Expressing creativity with colors and brushes.  
+- 🎵 **Music**: My ultimate coding companion.  
+- 🌅 **Sunsets**: Because life’s beauty is in the small moments.  
 
 ---
 
-### 🏆 GitHub Stats
+## 🌟 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=valeriaasalcedoo&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
